@@ -1,4 +1,4 @@
-# sigma-ios-boierplate
+# sigma-ios-boilerplate
 This is a boilerplate for my team
 ## Features
 
